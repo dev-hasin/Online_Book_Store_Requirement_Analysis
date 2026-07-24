@@ -14,8 +14,7 @@ This repository contains the Requirement Analysis assignment for an **Online Boo
 
 ```
 ├── README.md
-└── docs/
-    └── Online_Book_Store_Requirement_Analysis.docx
+└── Online_Book_Store_Requirement_Analysis.docx
 ```
 
 ## Technologies
